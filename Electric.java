@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Electric {
-    public static void main(String[] args) {
+    public static void main(Stringex[] args) {
         Scanner input=new Scanner(System.in);
 
          int a=input.nextInt();

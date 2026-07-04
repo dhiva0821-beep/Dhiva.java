@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Switchcase{
- public static void main (String [] args ){
+ public static void main (Stringex [] args ){
     Scanner input=new Scanner(System.in);
     int a=input.nextInt();
     switch (a) {

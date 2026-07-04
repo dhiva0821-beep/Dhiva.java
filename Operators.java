@@ -1,5 +1,5 @@
 class Operators {
-    public static void main (String [] args){
+    public static void main (Stringex [] args){
         int u=5;
         int v=7;
         System.out.println(u&v);
